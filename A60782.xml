@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some considerations relating to the duties of subsidy and aulnage</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60782</idno>
+            <idno type="STC">Wing S4494A</idno>
+            <idno type="STC">ESTC R205856</idno>
+            <idno type="EEBO-CITATION">99825371</idno>
+            <idno type="PROQUEST">99825371</idno>
+            <idno type="VID">29752</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60782)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29752)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2020:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some considerations relating to the duties of subsidy and aulnage</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original at the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:29752:1"/>
+            <!-- PDF PAGE 16 -->
+            <head>Some Conſiderations Relating to the Duties of SUBSIDY and AULNAGE.</head>
+            <p>THE Antient Duties of <hi>Subſidy</hi> and <hi>Aulnage</hi> have been in the Poſſeſſion of the Crown almoſt Three Hundred and Forty Years; and all that time Collected without Intermiſſion, and Confirmed by <hi>Statutes</hi> in every King and Queens Reign, ſince they were firſt given.</p>
+            <p>Theſe Duties are two diſtinct Duties, and were Collected by diſtinct Officers for many Years.</p>
+            <p>
+               <hi>Firſt,</hi> THE <hi>Aulnager</hi> was an Antient Officer of the Crown long before the <hi>Subſidy</hi> was Granted; and his Buſineſs was to Meaſure Cloathes betwixt the Buyer and Seller.</p>
+            <p>
+               <hi>Secondly,</hi>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Sceccar. Ed. 3. R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 1<g ref="char:punc">▪</g> 3. Pars Inſt. fo. 60.</note> THE <hi>Subſidy</hi> (for which the King appointed a Collector) was given him in lieu of Antient Cuſtoms the Kings of <hi>England</hi> had on <hi>Wool</hi> Tranſported, (ſuch Tranſportation being Prohibited) as appears by the Records; but never as a Recom<g ref="char:EOLhyphen"/>pence for Searching of Cloathes.</p>
+            <p>
+               <hi>Note,</hi> THE <hi>Subſidy</hi> on a Broad Cloath is <hi>Four Pence,</hi> the <hi>Aulnagers</hi> Fee is but an <hi>half Penny.</hi>
+            </p>
+            <p>THE Office of <hi>Aulnager</hi> as to Meaſuring,<note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6 Ed. cap. 6. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5 Phil. &amp; Mar. 5 Eliz. 10 Eliz. 20 Eliz. 10 Jac. 2 Jac. 18 Car. 25 Car. 2. 32</note> is taken away by 5 and 6 <hi>Edw. 6.</hi> and many ſubſequent <hi>Statutes;</hi> and 21 <hi>Jacobi,</hi> Cap. 18. lays a Penalty on the <hi>Aulnager</hi> if he offers to Search any Cloaths. YET by theſe <hi>Statutes</hi> the <hi>Aulnagers</hi> Fee is reterved, and made part of the ſaid Revenue; inſomuch that now the Buſineſs of the <hi>Aulnager,</hi> is only to Collect his own Fee and the <hi>Subſidy.</hi>
+            </p>
+            <p>WHICH obviates the Clamorous ſuggeſtion of Selling Seals, and not Executing the Duty of the Office of <hi>Aulnager,</hi> for indeed the Seals are now no more than as Coquets of the Cuſtoms, given on Payment of the ſaid Cuſtoms, and is the greateſt Accomo<g ref="char:EOLhyphen"/>dation imaginable to the Makers: For, whereas the Law obliges them to bring their Cloathes to a certain place to be Sealed, they are, if they define it, (to ſave the expence and trouble of ſo bringing them) furniſhed with Seals, to be put on by themſelves.</p>
+            <p>AND foraſmuch as there is another Complaint of Compounding Seizures for ſmall Sums, It is Humbly hoped (if ſuch things have been done, and are Errors) that they are Errors on the Right hand, they being wholly for the Eaſe and at the Requeſt of the Clothiers; for the Cloath being Forfeited, the Value might as well have been Exacted.</p>
+            <p>The Complaints againſt theſe Duties are not, That they are Grievous in themſelves, but in the Collecting of them.</p>
+            <p>TO which the Perſons Concern'd in Management of the ſaid Duties, <hi>Answer:</hi>
+            </p>
+            <p>THAT ſince their being Concerned, all Perſons have been Accomodated with Seals, with as much or more eaſe than the Law provides.</p>
+            <p>THAT all Searches have been made at Seaſonable and Proper Times; That no Remnants have been Seized but where the Head-end remained, being the place where the Seal is to be affixed and remain.</p>
+            <p>THAT they have not ſuffered any Wagons or Pack-Horſes to be Searched on the Road, nor received Shop-Rents from <hi>Drapers, Mercers,</hi> or <hi>Sales-men.</hi>
+            </p>
+            <p>THAT they have not received any other or more Duty than they are Legally Entituled unto; nor were there ever ſo few Law-Suits touching the <hi>Aulnage,</hi> as in their time, which is for Eight Years laſt paſt.</p>
+            <p>THAT in all the Complaints made the laſt Parliament, the <hi>Farmers</hi> produced good Authorities of Law for what they had done, and hope they are ſtill able to Juſtifie their Proceedings by Law.</p>
+            <p>THAT in the ſaid Complaints ſuch Matters as were Clamorous, <hi>(viz.)</hi> the Abuſes of Searching Goods on the Road, <hi>&amp;c.</hi> were proved to be before theſe <hi>Farmers</hi> times, as appears by the <hi>Committees</hi> Reports.</p>
+            <p>IN fine, That <hi>Clothiers, Merchants,</hi> and other Traders in the <hi>Woollen</hi> Manufactures, have never been ſo well Treated as by the preſent <hi>Farmers;</hi> which is ready to be made appear, (it this Honourable Houſe ſhall think fit to Enquire thereinto) notwithſtand<g ref="char:EOLhyphen"/>ing the many Falſe and Noiſy Papers, daily diſpers'd by Perſons, who make it their Livelihood in the Interval of Parliaments, to go and ſend round the Kingdom, and raiſe Money by Contributions, (as the Manager of the Bill now brought into this Houſe, hath done) upon promiſe, That theſe Duties ſhall be deſtroyed: Which is the True, and no other, Juſt Reaſon of theſe Clamours.</p>
+            <p>
+               <hi>Their Majeſties</hi> have a Settled Inheritance in theſe Duties, and are Impowered by 17 <hi>Edw.</hi> 4. <hi>cap.</hi> 5. and other <hi>Statutes,</hi> to let the ſame to Farm on ſuch Rent as can be Agreed on: Accordingly the ſaid Duties have been from time to time Let to Farm, and Farmed to the Family of Richmond and Lenox, ever ſince the 3d. of King <hi>James</hi> the Firſt, purſuant to the Directi<g ref="char:EOLhyphen"/>ons of the ſaid <hi>Statutes,</hi> upon ſeveral Conſiderations, and reſerved Rents; the laſt Patents being for 60 Years, from <hi>Decem<g ref="char:EOLhyphen"/>ber,</hi> 1664.</p>
+            <p>THE Duke of <hi>Richmond</hi> upon his Marriage with the preſent Dutcheſs,<note place="margin">1667</note> Settles 2000<hi>l. per Annum</hi> for her Jointure, out of the ſaid Duties.</p>
+            <p>THE Dutcheſs for 7600 <hi>l.</hi> paid the Dukes Executors towards Payment of his Debts,<note place="margin">1681</note> Purchaſes the Dukes Intereſt in the Remaining term of the ſaid Leaſe.</p>
+            <p>THE Dutcheſs and her Truſtees for 9000<hi>l.</hi> Fine,<note place="margin">1682</note> Demiſe the ſaid <hi>Subſidy</hi> and <hi>Aulnage</hi> for 21 Years, at the Yearly Rent of 3138 <hi>l.</hi> 10 <hi>s.</hi> unto the preſent <hi>Farmers.</hi>
+            </p>
+            <p>SO that the Bill being a Project to deſtroy the King's Inheritance as well as the Legal Right, Intereſt and Property of per<g ref="char:EOLhyphen"/>ticular Perſons, derived under the beſt Title, and upon Valuable Conſiderations, upon a pretence, That the Collection of theſe Duties, according to Law, are Grievances.</p>
+            <p>
+               <hi>Whether</hi> this Honourable Houſe will thereupon Deprive Purchaſers of their Eſtates, is Humbly Submitted to their Conſiderations.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
